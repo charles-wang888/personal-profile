@@ -35,5 +35,5 @@ Graduated from Nanjing University with a Bachelor's degree in Software Engineeri
 - ITPub Community "DeepSeek Deep Interpretation" - [https://live.itpub.net/](https://live.itpub.net/)
 - "Intelligence Surging in the Cloud, Coexisting with AI" Tencent Cloud Developer Conference - [https://mp.weixin.qq.com/s/dWm-4OQSJvWplRjW0DaNVg](https://mp.weixin.qq.com/s/dWm-4OQSJvWplRjW0DaNVg)
 - 7th AiDD Summit - [https://mp.weixin.qq.com/s/6NL-3zqmSEtkseV1Xso9vA](https://mp.weixin.qq.com/s/6NL-3zqmSEtkseV1Xso9vA)
-- CAICT MCP Technology Salon - [https://mp.weixin.qq.com/s/3UGogZrAhdeuxvmirrZhwg](https://mp.weixin.qq.com/s/3UGogZrAhdeuxvmirrZhwg), [https://mp.weixin.qq.com/s/WiPwI7l98gWneRBD5fhTyQ](https://mp.weixin.qq.com/s/WiPwI7l98gWneRBD5fhTyQ)
+- CAICT MCP Technology Salon - [https://mp.weixin.qq.com/s/WiPwI7l98gWneRBD5fhTyQ](https://mp.weixin.qq.com/s/WiPwI7l98gWneRBD5fhTyQ)
 - OpenAtom Open Source Foundation - OpenTenBase Shanghai Station - [https://mp.weixin.qq.com/s/uBfxA9coXpF5o3LTjR0Rvg](https://mp.weixin.qq.com/s/uBfxA9coXpF5o3LTjR0Rvg)
