@@ -1,4 +1,4 @@
-# Professional Profile
+# Personal Profile
 
 ## Introduction
 Graduated from Nanjing University with a Bachelor's degree in Software Engineering. Currently employed at Changliang Technology. Expert at the "Application Modernization Promotion Center" of China Academy of Information and Communications Technology (CAICT), Tencent Cloud Hall of Fame Expert, and Huawei Kunpeng "Outstanding Golden Seed Developer".
