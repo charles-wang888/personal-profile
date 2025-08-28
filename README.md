@@ -1,7 +1,7 @@
 # Personal Profile
 
 ## Introduction
-Graduated from Nanjing University with a Bachelor's degree in Software Engineering. Currently employed at Changliang Technology. Expert at the "Application Modernization Promotion Center" of China Academy of Information and Communications Technology (CAICT), Tencent Cloud Hall of Fame Expert, and Huawei Kunpeng "Outstanding Golden Seed Developer".
+Graduated from Nanjing University with a Bachelor's degree in Software Engineering. Currently employed at Sunline. Expert at the "Application Modernization Promotion Center" of China Academy of Information and Communications Technology (CAICT), Tencent Cloud Hall of Fame Expert, and Huawei Kunpeng "Outstanding Golden Seed Developer".
 
 ## Patents
 - **一种基于AI的面向金融领域的工艺平台** - Patent Number: ZL 2025 1 0484819.8, Authorization Announcement Number: CN 119987729 B
