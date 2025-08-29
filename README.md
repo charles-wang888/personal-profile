@@ -1,5 +1,6 @@
 # Personal Profile
-![pic(7)](https://github.com/user-attachments/assets/a476c09b-8816-464f-9feb-d3db2051f6db)
+
+<img src="https://github.com/user-attachments/assets/a476c09b-8816-464f-9feb-d3db2051f6db" alt="王巍巍的照片" width="300" height="200">
 
 ## Introduction
 Graduated from Nanjing University with a Bachelor's degree in Software Engineering. Currently employed at Sunline. Expert at the "Application Modernization Promotion Center" of China Academy of Information and Communications Technology (CAICT), Tencent Cloud Hall of Fame Expert, and Huawei Kunpeng "Outstanding Golden Seed Developer".
