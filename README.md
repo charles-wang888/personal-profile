@@ -12,6 +12,7 @@ Graduated from Nanjing University with a Bachelor's degree in Software Engineeri
 - **"单元化架构实践指南及AI时代思考"** - Publisher: 哈尔滨工程大学出版社, ISBN: 978-7-5661-4839-1, CIP Approval Number: 2025DX7425
 
 ## Research Papers
+- **"《Solving LLM Repetition Problem in Production: A Comprehensive Study of Multiple Solutions》"** - https://arxiv.org/abs/2512.04419
 - **"RAG实践的经典难题以及知识图谱KG的增强"** - Published in "计算机产品与流通" Journal, ISSN: CN12-1276/TP
 - **"论“代码解读”场景大模型的训练和调优之道"** - Published in "消费电子" Journal, ISSN: CN11-5879/TM
 
