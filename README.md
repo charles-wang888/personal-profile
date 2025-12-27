@@ -13,6 +13,7 @@ Graduated from Nanjing University with a Bachelor's degree in Software Engineeri
 
 ## Research Papers
 - **"《Solving LLM Repetition Problem in Production: A Comprehensive Study of Multiple Solutions》"** - https://arxiv.org/abs/2512.04419
+- **"《Real Time Detection and Quantitative Analysis of Spurious Forgetting in Continual Learning》"** - https://arxiv.org/abs/2512.20634
 - **"RAG实践的经典难题以及知识图谱KG的增强"** - Published in "计算机产品与流通" Journal, ISSN: CN12-1276/TP
 - **"论“代码解读”场景大模型的训练和调优之道"** - Published in "消费电子" Journal, ISSN: CN11-5879/TM
 
@@ -24,6 +25,8 @@ Graduated from Nanjing University with a Bachelor's degree in Software Engineeri
 - CAICT Group Standard: "银行核心系统现代化建设水平度量模型"
 - CAICT Group Standard: "大模型驱动的数据分类分级工具技术要求"
 - CAICT Group Standard: "人工智能云 AI网关能力要求"
+- CAICT Group Standard: 人工智能云 大模型外部信息交互能力要求"
+- CAICT Group Standard: 金融级智能应用能力要求 风控场景"
 
 ## Key Activities
 
